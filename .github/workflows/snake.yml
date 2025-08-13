@@ -2,18 +2,19 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Atualiza a cada 12 horas
+    - cron: "0 */12 * * *" # Executa a cada 12h
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Generate snake.svg
-        uses: Platane/snk@master
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: gabrielalenc
           outputs: dist/snake.svg
