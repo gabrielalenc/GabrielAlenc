@@ -18,6 +18,10 @@
 
 <h3 align="center">📬 Contatos</h3>
 
+
+![Snake animation](https://github.com/gabrielalenc/gabrielalenc/blob/output/snake.svg)
+
+
 <p align="center">
   <a href="mailto:alencarbiel65@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
