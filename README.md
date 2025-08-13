@@ -19,7 +19,6 @@
 <h3 align="center">📬 Contatos</h3>
 
 
-![Snake animation](https://github.com/gabrielalenc/gabrielalenc/blob/output/snake.svg)
 
 
 <p align="center">
@@ -32,3 +31,4 @@
 </p>
 
 
+![Snake animation](https://github.com/gabrielalenc/gabrielalenc/blob/output/snake.svg)
