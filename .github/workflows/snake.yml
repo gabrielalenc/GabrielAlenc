@@ -2,7 +2,7 @@ name: generate-snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Executa a cada 12h
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -22,6 +22,9 @@ jobs:
           github_user_name: gabrielalenc
           outputs: |
             dist/snake.svg
+
+      - name: List dist folder
+        run: ls -la dist
 
       - name: Upload to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
