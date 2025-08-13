@@ -31,6 +31,8 @@
 </p>
 
 ![Snake animation](https://github.com/gabrielalenc/gabrielalenc/blob/output/snake.svg)
+Veja minha cobrinha do GitHub:
+![github-snake](https://gabrielalenc.github.io/GabrielAlenc/snake.svg)
 
 
 
