@@ -5,6 +5,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAlenc&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
 </p>
 
+<hr>
+<br>
+
 <h3 align="center">🚀 Tecnologias Usadas</h3>
 
 <p align="center">
