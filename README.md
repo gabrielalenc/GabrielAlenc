@@ -3,8 +3,9 @@
 ---
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielAlenc&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAlenc&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielAlenc&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAlenc&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/>
+
 </p>
 
 ---
