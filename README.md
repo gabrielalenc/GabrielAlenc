@@ -1,5 +1,7 @@
 <h2 align="center">👋 OLA! EU SOU GABRIEL ALENCAR</h2>
 
+<br>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GabrielAlenc&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAlenc&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
