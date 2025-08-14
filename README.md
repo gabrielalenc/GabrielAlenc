@@ -9,7 +9,7 @@
 
 ---
 
-<h3 align="center">🚀 Tecnologias que uso no dia a dia</h3>
+<h3 align="center">🚀 Tecnologias usadas</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
