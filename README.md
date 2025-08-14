@@ -3,10 +3,11 @@
 ---
 
 <p align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielAlenc&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAlenc&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/>
-
+  <img height="50" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+  <img height="50" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img height="50" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
+
 
 ---
 
