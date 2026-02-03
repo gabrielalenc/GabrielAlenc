@@ -2,7 +2,16 @@
 
 ---
 
-<p align="center"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielAlenc&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAlenc&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/> </p>
+<div align="center" style="display:flex; gap:20px; flex-wrap:wrap;">
+
+  <img height="160"
+       src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical"/>
+
+  <img height="160"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical"/>
+
+</div>
+
 
 
 
