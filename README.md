@@ -2,21 +2,6 @@
 
 ---
 
-<div align="center" style="display:flex; gap:20px; flex-wrap:wrap;">
-
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical"/>
-
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical"/>
-
-</div>
-
-
-
-
----
-
 <h3 align="center">🚀 Tecnologias usadas</h3>
 
 <p align="center">
